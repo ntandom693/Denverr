@@ -71,7 +71,7 @@ export default function ListingCard({
         </div>
 
         <button
-          onClick={handleViewRoom}
+          onClick={() => {}}
           className="mt-3 w-full bg-[#4F46E5] text-white py-2 rounded-xl font-semibold hover:bg-[#4338CA] transition"
         >
           View Room
